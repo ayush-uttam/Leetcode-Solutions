@@ -6,10 +6,12 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1002-find-common-characters](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
 | ------- |
+| [1002-find-common-characters](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
 |  |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1002-find-common-characters](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 ## Greedy
 |  |
 | ------- |
