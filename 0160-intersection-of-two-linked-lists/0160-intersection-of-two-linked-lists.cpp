@@ -9,15 +9,32 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_map<ListNode*,int>mpp;
         ListNode* t1=headA;
         ListNode* t2=headB;
+        int l1=0,l2=0;
         while(t1){
-            mpp[t1]++;
+            l1++;
             t1=t1->next;
         }
         while(t2){
-            if(mpp[t2]==1)  return t2;
+            l2++;
+            t2=t2->next;
+        }
+        t1=headA;
+        t2=headB;
+        if(l1>l2){
+            for(int i=1;i<=l1-l2;i++){
+                t1=t1->next;
+            }
+        }
+        else if(l2>l1){
+            for(int i=1;i<=l2-l1;i++){
+                t2=t2->next;
+            }
+        }
+        while(t1){
+            if(t1==t2)  return t1;
+            t1=t1->next;
             t2=t2->next;
         }
         return nullptr;
