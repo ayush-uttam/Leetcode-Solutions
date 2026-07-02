@@ -14,6 +14,7 @@
 | ------- |
 | [1002-find-common-characters](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2390-removing-stars-from-a-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
