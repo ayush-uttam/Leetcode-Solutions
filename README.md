@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
