@@ -11,6 +11,23 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
-        
+        ListNode* dummy= new ListNode();
+        ListNode* r=dummy;
+        ListNode* temp=head->next;
+        int s=0;
+        while(temp!=nullptr){
+            if(temp->val==0){
+                r->next=temp;
+                temp=temp->next;
+                r=r->next;
+                r->val=s;
+                r->next=nullptr;
+                s=0;
+                continue;
+            }
+            s+=temp->val;
+            temp=temp->next;
+        }
+        return dummy->next;
     }
 };
