@@ -60,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -70,6 +71,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1002-find-common-characters](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1002-find-common-characters) |
