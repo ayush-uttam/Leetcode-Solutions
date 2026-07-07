@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
