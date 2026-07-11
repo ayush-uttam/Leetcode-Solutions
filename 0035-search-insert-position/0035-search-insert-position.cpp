@@ -11,9 +11,9 @@ public:
                 low=mid+1;
             }
             else{
-                break;
+                return mid;
             }
         }
-        return mid+1;
+        return low;
     }
 };
