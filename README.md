@@ -75,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
