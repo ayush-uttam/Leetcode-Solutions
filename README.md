@@ -47,6 +47,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
@@ -108,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
