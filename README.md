@@ -11,6 +11,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1002-find-common-characters](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1002-find-common-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2716-minimize-string-length](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -68,6 +69,7 @@
 | [0389-find-the-difference](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1331-rank-transform-of-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1002-find-common-characters](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1002-find-common-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
 |  |
 | ------- |
