@@ -113,6 +113,7 @@
 | [0050-powx-n](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -132,4 +133,8 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
