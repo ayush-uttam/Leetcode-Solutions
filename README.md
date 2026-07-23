@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0633-sum-of-square-numbers](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
