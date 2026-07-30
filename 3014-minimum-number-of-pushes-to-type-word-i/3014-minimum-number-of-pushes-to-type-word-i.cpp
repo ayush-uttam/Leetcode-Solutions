@@ -1,15 +1,11 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n=word.size();
-        int q=n/8;
-        int r=n%8;
-        int i;
-        int sum=0;
-        for(i=1;i<=q;i++){
+        int i,sum=0,n=word.size();;
+        for(i=1;i<=n/8;i++){
             sum+=i*8;
         }
-        sum+=i*r;
+        sum+=i*(n%8);
         return sum;
     }
 };
