@@ -27,6 +27,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Counting
 |  |
@@ -101,6 +102,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0633-sum-of-square-numbers](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
