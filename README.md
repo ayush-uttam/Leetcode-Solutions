@@ -14,6 +14,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2716-minimize-string-length](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -28,12 +29,14 @@
 | [2390-removing-stars-from-a-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
@@ -103,6 +107,7 @@
 | [0409-longest-palindrome](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
