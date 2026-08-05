@@ -16,6 +16,7 @@
 | [2716-minimize-string-length](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2716-minimize-string-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3731-find-missing-elements](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
@@ -101,6 +103,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
