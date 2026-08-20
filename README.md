@@ -106,6 +106,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -131,6 +132,7 @@
 | [0844-backspace-string-compare](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
