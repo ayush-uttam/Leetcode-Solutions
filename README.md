@@ -34,12 +34,14 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [4006-count-valid-prefixes](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/4006-count-valid-prefixes) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [4006-count-valid-prefixes](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/4006-count-valid-prefixes) |
 ## Linked List
 |  |
 | ------- |
