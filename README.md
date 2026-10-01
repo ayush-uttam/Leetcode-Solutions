@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -138,6 +139,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -201,6 +203,10 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 
