@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
@@ -156,6 +158,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0633-sum-of-square-numbers](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
