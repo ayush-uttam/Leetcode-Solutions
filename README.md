@@ -126,6 +126,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0134-gas-station](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -146,6 +147,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
