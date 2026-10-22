@@ -127,6 +127,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -248,11 +250,16 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [2104-sum-of-subarray-ranges](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
 
 
