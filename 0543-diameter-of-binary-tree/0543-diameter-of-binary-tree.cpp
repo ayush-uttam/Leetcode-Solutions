@@ -14,15 +14,13 @@ public:
     int ma=0;
     int height(TreeNode* root){
         if(!root)   return 0;
-        return 1+max(height(root->left),height(root->right));
-    }
-    int diameterOfBinaryTree(TreeNode* root) {
-        if(!root)   return 0;
         int left=height(root->left);
         int right=height(root->right);
         ma=max(ma,left+right);
-        diameterOfBinaryTree(root->left);
-        diameterOfBinaryTree(root->right);
+        return 1+max(left,right);
+    }
+    int diameterOfBinaryTree(TreeNode* root) {
+        height(root);
         return ma;
     }
 };
