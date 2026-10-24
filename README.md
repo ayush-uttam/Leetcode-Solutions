@@ -134,6 +134,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1002-find-common-characters](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -167,6 +168,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
