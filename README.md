@@ -127,6 +127,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0135-candy) |
@@ -207,6 +208,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -315,6 +317,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ayush-uttam/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 ## Binary Lifting
 |  |
