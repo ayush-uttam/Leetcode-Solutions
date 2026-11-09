@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void helper(int i,int n,vector<int>&arr,vector<vector<int>>&res,vector<int>temp){
+    void helper(int i,int n,vector<int>&arr,vector<vector<int>>&res,vector<int>&temp){
         if(i>=n){
             res.push_back(temp);
             return;
