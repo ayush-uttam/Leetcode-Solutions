@@ -6,11 +6,11 @@ public:
             res.push_back(temp);
             return;
         }
-        if(t<0) return;
-        if(i==n){
-            if(t==0)    res.push_back(temp);
-            return;
-        }
+        if(t<0||i==n) return;
+        // if(i==n){
+        //     if(t==0)    res.push_back(temp);
+        //     return;
+        // }
         temp.push_back(arr[i]);
         helper(i,n,t-arr[i],arr,res,temp);
         temp.pop_back();
