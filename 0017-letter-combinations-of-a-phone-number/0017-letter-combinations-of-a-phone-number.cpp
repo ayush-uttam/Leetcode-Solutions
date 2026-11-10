@@ -16,6 +16,7 @@ public:
     void helper(int i, int n, string s, string d, vector<string>&res){
         if(i==n){
             res.push_back(s);
+            return;
         }
         vector<char>c=getMapping(d[i]);
         for(char x:c){
